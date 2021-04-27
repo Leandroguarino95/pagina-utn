@@ -83,3 +83,10 @@ html{
     padding-top: 10px;
     padding-bottom: 20px;
 }
+
+.derechos {
+    background-color: darkturquoise;
+    color: floralwhite;
+    text-align: center;
+    padding: 13px;
+}
