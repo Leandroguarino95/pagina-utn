@@ -37,26 +37,24 @@ html{
     text-decoration: none;
     color: white;
 }
+a:hover {
+    color:white; /* blanco */
+    }
+    
+a:visited {
+    color: white; /* blanco */
+    }
+    
+a:link {
+    color: white ;
+    }
 
-.navbar ul{
-    list-style-type: none;
-    text-align: right;
-}
-
-.navbar ul li a{
-    text-decoration: none;
-    display: block;
-    color: white;
-}
-
-.navbar ul li a:hover{
-    background: red;
-    color: black;
-}
 .menu {
+
     text-align: right;
     color: white;
     background-color: darkblue;
+
     padding-right: 60px;
 }
 
